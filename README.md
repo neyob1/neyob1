@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Nahom!
 
-<!--
-**neyob1/neyob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
+
+- <b>Active Directory and Powershell Automation Lab (AlgoExpert)</b>
+
+
+
 
 Here are some ideas to get you started:
 
