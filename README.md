@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Active Directory and Powershell Automation Lab (AlgoExpert)</b>
+- [Active Directory Lab](https://github.com/neyob1/ActiveDirectoryLab/blob/main/README.md))</b>
 
 
 
